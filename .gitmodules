@@ -1,0 +1,3 @@
+[submodule "RN_EthereumFeeProxy/lib/forge-std"]
+	path = RN_EthereumFeeProxy/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
