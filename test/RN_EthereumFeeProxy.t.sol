@@ -14,7 +14,7 @@ interface IEthereumFeeProxy {
 
 contract RN_EthereumFeeProxyTest is Test {
 
-    address RNEthereumFeeProxyaddress = 0xC6E23a20C0a1933ACC8E30247B5D1e2215796C1F; //Polygon Mainnet address for EthereumFeeProxy contract
+    address RNEthereumFeeProxyaddress = 0xfCFBcfc4f5A421089e3Df45455F7f4985FE2D6a8; //Mainnet address for EthereumFeeProxy contract
 
     function test_PaymentWithFee() public payable {
 
