@@ -5,7 +5,7 @@ The test results show the contract works as intended when using a 0 fee and a fe
 
 ## Steps to run the test:
  * Install Foundry
- * Run `forge test -vvvvv --fork-url https://polygon-mainnet.g.alchemy.com/v2/YOURAPIKEY` or `forge test -vvvvv --fork-url https://mainnet.infura.io/v3/YOURAPIKEY` (forking mainnet is mandatory)
+ * Run `forge test -vvvvv --fork-url https://eth-mainnet.g.alchemy.com/v2/YOURAPIKEY` or `forge test -vvvvv --fork-url https://mainnet.infura.io/v3/YOURAPIKEY` (forking mainnet is mandatory)
 
 ## Test output with max verbosity:
 
